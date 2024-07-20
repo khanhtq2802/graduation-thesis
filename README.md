@@ -1,1 +1,3 @@
-# graduation-thesis
+# graduation thesis: Aspect Based Sentiment Analysis for Tourism
+
+Abstract: In the business and service sectors, user feedback is crucial, and this is especially true for the tourism industry. Natural Language Processing (NLP), particularly Aspect-Based Sentiment Analysis (ABSA), has proven to be effective in understanding and analyzing user feedback. However, both in Vietnam and globally, there is a lack of comprehensive and accurate datasets specifically tailored to tourism. In this thesis, I identify key aspects relevant to tourism as the initial step of ABSA. I then conduct sentiment analysis with four polarities: none/neutral, positive, negative, and conflict. Finally, I introduce a novel dataset along with a fine-tuned Roberta-base model trained on this dataset. Experimental results show that the model have a well generalization for a part of tourism.
